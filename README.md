@@ -38,6 +38,26 @@ These are observations, not confirmed vulnerabilities.
 - Version numbers and records are leads to investigate, not proof of a vulnerability.
 - Every test must stay inside an authorized scope.
 
+## Evidence
+
+### whois
+<img width="1284" height="803" alt="whois result image" src="https://github.com/user-attachments/assets/bf80a595-2b20-4113-913f-6548c04bf65c" />
+
+### whatweb
+<img width="1281" height="802" alt="whatweb result image" src="https://github.com/user-attachments/assets/a0031f8f-5c78-4070-8290-678a721d6e00" />
+
+### nslookup
+<img width="1281" height="800" alt="nslookup result" src="https://github.com/user-attachments/assets/6f16e353-2d7f-4a21-8aa2-023e2a21352b" />
+
+### curl -I
+<img width="1278" height="801" alt="curl -I result" src="https://github.com/user-attachments/assets/a601fc8f-1350-4d03-865d-cbcc04696cda" />
+
+### wafw00f
+<img width="1280" height="800" alt="wafw00f result" src="https://github.com/user-attachments/assets/9f9426b8-0674-4f38-8150-99f94ffa07fb" />
+
+### dnsrecon
+<img width="1280" height="799" alt="dnsrecon -d result" src="https://github.com/user-attachments/assets/44a56aa1-8f25-4936-8d4c-a40f4b0ffeec" />
+
 ## Ethical use
 For education only. Only test systems you own or have written permission to test.
 
